@@ -4,8 +4,8 @@ Install multiple Redis instances by using different ports.
 
 ## Environment
 
-Redis 3.2.8
-CentOS 7.3
+- Redis 3.2.8
+- CentOS 7.3 1611
 
 ## Usage
 
